@@ -1,0 +1,2 @@
+A system of vector clocks is strongly consistent and it captures the happened before relations among events in the system. These clocks underlie solutions to a number of problems in distributed systems.
+A data structure of size n, where n is the number of processes in the system, has to be maintained at each process and attached with each message communicated in the system to implement vector clocks.
